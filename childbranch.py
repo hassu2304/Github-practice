@@ -1,3 +1,2 @@
-## This is to check 
-
-print ( 10 + 5 )
+## This is to check
+print ( "Good morning" )
